@@ -163,7 +163,6 @@ Real_time_ML_prediction_via_web_dashboard.mp4 : https://drive.google.com/file/d/
 * Low Power Consumption using Li-ion battery
 * Data Encryption between TX LoRa and RX LoRa
 * Cloud database integration
-* SMS and emergency alert system
 * Multi-soldier monitoring capability
 * Deep Learning-based prediction models
 * Edge AI deployment on embedded devices
